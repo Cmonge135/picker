@@ -20,6 +20,8 @@ body {
     max-width: 100%;
     /* Ensure it resized properly on smaller screens */
     box-sizing: border-box;
+    /* Fixed */
+    margin: -15px 10px 10px 0px;
 }
 
 .date-display {
