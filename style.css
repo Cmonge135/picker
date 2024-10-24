@@ -21,7 +21,7 @@ body {
     /* Ensure it resized properly on smaller screens */
     box-sizing: border-box;
     /* Fixed */
-    margin: -30px 5px 15px 0;
+    margin: -30px 0 0 0;
 }
 
 .date-display {
